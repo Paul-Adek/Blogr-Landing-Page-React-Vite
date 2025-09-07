@@ -1,12 +1,23 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Blogr Landing Page (React + Vite)
+A modern landing page built with **React** and **Vite**. 
+This project is part of my frontend practice and showcases a clean, responsive design with reusable components.
+🌐 **Live Demo**: [View on Vercel](https://your-vercel-link.vercel.app) 
+📂 **Repo**: [Blogr Landing Page](https://github.com/Paul-Adek/Blogr-Landing-Page-React-Vite)
+---
+## 🚀 Features
+- ⚡ Powered by [Vite](https://vitejs.dev/) for fast builds and hot reload
+- ⚛️ Built with [React](https://react.dev/) components
+- 🎨 Responsive design (mobile-first)
+- 🛠️ Clean project structure for easy scaling
+---
+## 📦 Installation & Setup
+Clone the repo and run locally:
+```bash
+# Clone repo
+git clone https://github.com/Paul-Adek/Blogr-Landing-Page-React-Vite.git
+# Navigate
+cd Blogr-Landing-Page-React-vite
+# Install dependencies
+npm install
+# Start development server
+npm run dev
