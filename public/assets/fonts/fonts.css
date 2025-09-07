@@ -1,0 +1,10 @@
+/* Overpass */
+@font-face {
+    font-family: alt-overpass;
+    src: url(/assets/fonts/Overpass-VariableFont_wght.ttf);
+  }
+  /* Ubuntu */
+  @font-face {
+    font-family: alt-ubuntu;
+    src: url(/assets/fonts/Ubuntu-Regular.ttf);
+  }
